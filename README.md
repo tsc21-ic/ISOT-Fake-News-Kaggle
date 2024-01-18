@@ -1,4 +1,4 @@
-# ISOT-Fake-News-Kaggle
+# Fake News Classification
 
 
 Link: https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data
