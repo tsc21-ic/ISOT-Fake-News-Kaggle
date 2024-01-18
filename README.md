@@ -19,8 +19,10 @@ Reuters news website.
 
 
 # References
+
 H. Ahmed, I. Traore, and S. Saad. Detection of online fake news using n-gram analysis and machine learning
 techniques. In International conference on intelligent, secure, and dependable systems in distributed and
 cloud environments, pages 127–138. Springer, 2017.
+
 H. Ahmed, I. Traore, and S. Saad. Detecting opinion spams and fake news using text classification. Security
 and Privacy, 1(1):e9, 2018.
