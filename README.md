@@ -18,7 +18,7 @@ a fact-checking website called Politifact and Wikipedia. “Truthful news” wer
 Reuters news website.
 
 
-# References
+## References
 
 H. Ahmed, I. Traore, and S. Saad. Detection of online fake news using n-gram analysis and machine learning
 techniques. In International conference on intelligent, secure, and dependable systems in distributed and
