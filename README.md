@@ -1,7 +1,7 @@
 # Fake News Classification
 
 
-Link: https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data
+Dataset Link: https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data
 
 
 We will be using the ISOT Fake News Dataset [Ahmed et al., 2017],[Ahmed et al., 2018] readily available
