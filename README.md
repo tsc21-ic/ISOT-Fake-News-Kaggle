@@ -9,6 +9,7 @@ from the Kaggle website to perform statistical analysis and predictions. In part
 divided into two parts:
 
 • Part 1: Exploratory analysis of the dataset
+
 • Part 2: Fitting a binary logistic regression (LR) model for prediction of real and fake news
 
 The dataset contains real and fake articles (news) collected from different sources throughout 2016 to 2017.
