@@ -5,7 +5,7 @@ Link: https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data
 
 
 We will be using the ISOT Fake News Dataset [Ahmed et al., 2017],[Ahmed et al., 2018] readily available
-from Kaggle website to perform statistical analysis and predictions. In particular, our dataset analysis is
+from the Kaggle website to perform statistical analysis and predictions. In particular, our dataset analysis is
 divided into two parts:
 
 • Part 1: Exploratory analysis of the dataset
@@ -17,7 +17,7 @@ a fact-checking website called Politifact and Wikipedia. “Truthful news” wer
 Reuters news website.
 
 
-*References*
+# References
 H. Ahmed, I. Traore, and S. Saad. Detection of online fake news using n-gram analysis and machine learning
 techniques. In International conference on intelligent, secure, and dependable systems in distributed and
 cloud environments, pages 127–138. Springer, 2017.
