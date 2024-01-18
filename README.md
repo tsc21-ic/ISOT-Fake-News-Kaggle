@@ -18,6 +18,8 @@ a fact-checking website called Politifact and Wikipedia. “Truthful news” wer
 Reuters news website.
 
 
+Spark and Python working codes are included in the result document.
+
 ## References
 
 H. Ahmed, I. Traore, and S. Saad. Detection of online fake news using n-gram analysis and machine learning
