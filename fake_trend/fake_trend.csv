@@ -1,0 +1,177 @@
+subject,date,count
+politics,2015-03,6
+left-news,2015-03,2
+politics,2015-04,126
+Government News,2015-04,79
+left-news,2015-04,121
+politics,,40
+Government News,,2
+left-news,,3
+politics,2015-05,144
+Government News,2015-05,81
+left-news,2015-05,113
+politics,2015-06,93
+Government News,2015-06,66
+left-news,2015-06,77
+politics,2015-07,136
+Government News,2015-07,72
+left-news,2015-07,83
+politics,2015-08,133
+Government News,2015-08,39
+left-news,2015-08,48
+politics,2015-09,109
+Government News,2015-09,53
+left-news,2015-09,40
+politics,2015-10,145
+Government News,2015-10,77
+left-news,2015-10,59
+politics,2015-11,131
+Government News,2015-11,45
+left-news,2015-11,100
+politics,2015-12,135
+Government News,2015-12,69
+left-news,2015-12,97
+News,2016-01,644
+politics,2016-01,170
+Government News,2016-01,87
+left-news,2016-01,129
+US_News,2016-01,28
+Middle-east,2016-01,23
+News,2016-02,635
+politics,2016-02,169
+Government News,2016-02,51
+left-news,2016-02,113
+US_News,2016-02,26
+Middle-east,2016-02,26
+News,2016-03,597
+politics,2016-03,207
+Government News,2016-03,61
+left-news,2016-03,141
+US_News,2016-03,41
+Middle-east,2016-03,41
+News,2016-04,560
+politics,2016-04,175
+Government News,2016-04,49
+left-news,2016-04,143
+US_News,2016-04,25
+Middle-east,2016-04,25
+News,2016-05,527
+politics,2016-05,225
+Government News,2016-05,47
+left-news,2016-05,159
+US_News,2016-05,27
+Middle-east,2016-05,27
+News,2016-06,427
+politics,2016-06,184
+Government News,2016-06,64
+left-news,2016-06,146
+US_News,2016-06,25
+Middle-east,2016-06,25
+News,2016-07,423
+politics,2016-07,225
+Government News,2016-07,34
+left-news,2016-07,159
+US_News,2016-07,21
+Middle-east,2016-07,21
+News,2016-08,412
+politics,2016-08,254
+Government News,2016-08,57
+left-news,2016-08,143
+US_News,2016-08,13
+Middle-east,2016-08,13
+News,2016-09,410
+politics,2016-09,248
+Government News,2016-09,53
+left-news,2016-09,149
+US_News,2016-09,38
+Middle-east,2016-09,38
+News,2016-10,427
+politics,2016-10,327
+Government News,2016-10,43
+left-news,2016-10,193
+US_News,2016-10,46
+Middle-east,2016-10,46
+News,2016-11,367
+politics,2016-11,290
+Government News,2016-11,25
+left-news,2016-11,176
+US_News,2016-11,73
+Middle-east,2016-11,73
+News,2016-12,412
+politics,2016-12,232
+Government News,2016-12,26
+left-news,2016-12,154
+US_News,2016-12,42
+Middle-east,2016-12,42
+News,2017-01,460
+politics,2017-01,260
+Government News,2017-01,32
+left-news,2017-01,157
+US_News,2017-01,60
+Middle-east,2017-01,60
+News,2017-02,393
+politics,2017-02,226
+Government News,2017-02,30
+left-news,2017-02,156
+US_News,2017-02,37
+Middle-east,2017-02,37
+News,2017-03,425
+politics,2017-03,296
+Government News,2017-03,54
+left-news,2017-03,175
+US_News,2017-03,58
+Middle-east,2017-03,58
+News,2017-04,308
+politics,2017-04,234
+Government News,2017-04,43
+left-news,2017-04,166
+US_News,2017-04,27
+Middle-east,2017-04,27
+News,2017-05,313
+politics,2017-05,274
+Government News,2017-05,50
+left-news,2017-05,164
+US_News,2017-05,13
+Middle-east,2017-05,13
+News,2017-06,351
+politics,2017-06,232
+Government News,2017-06,33
+left-news,2017-06,150
+US_News,2017-06,24
+Middle-east,2017-06,24
+News,2017-07,262
+politics,2017-07,244
+Government News,2017-07,42
+left-news,2017-07,179
+US_News,2017-07,25
+Middle-east,2017-07,25
+News,2017-08,239
+politics,2017-08,252
+Government News,2017-08,39
+left-news,2017-08,191
+US_News,2017-08,37
+Middle-east,2017-08,37
+News,2017-09,173
+politics,2017-09,229
+Government News,2017-09,26
+left-news,2017-09,154
+US_News,2017-09,27
+Middle-east,2017-09,27
+News,2017-10,127
+politics,2017-10,228
+Government News,2017-10,15
+left-news,2017-10,163
+US_News,2017-10,36
+Middle-east,2017-10,36
+News,2017-11,110
+politics,2017-11,236
+Government News,2017-11,14
+left-news,2017-11,131
+US_News,2017-11,16
+Middle-east,2017-11,16
+News,2017-12,48
+politics,2017-12,226
+Government News,2017-12,12
+left-news,2017-12,125
+US_News,2017-12,18
+Middle-east,2017-12,18
